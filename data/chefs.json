@@ -1,0 +1,453 @@
+
+[ 
+     { 
+        "chef_id": 1,
+        "chef_name": "Ian Kittichai",
+        "chef_image": "https://www.ianchalermkittichai.com/wp-content/themes/Ian/timthumb.php?src=https://www.ianchalermkittichai.com/wp-content/uploads/2020/10/1-DEC-2018-29-scaled.jpg&w=459&h=303",
+        "years_of_experience": 25,
+        "num_of_recipes": 150,   
+        "likes":15000, 
+        "chefs_bio":" A renowned chef, restaurateur, and cookbook author who has been instrumental in promoting Thai cuisine on the international stage. Kittichai has worked in several prestigious kitchens, including The Four Seasons Bangkok and the Mandarin Oriental Bangkok, and has been featured on various TV shows.",
+        "chefs_recipes":[
+            {
+                "recipe_id":1,
+                "recipe_name":"Green Curry Chicken",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUDEdA4Y8OzW-7iXlH0b4ecuFR2afVn6q4w&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.8
+            },
+
+            {
+                "recipe_id":2,
+                "recipe_name":"Tom Yum Soup",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C1yCdZfXQ1BGT32R15LoFn4LNBAjD30gtw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.5
+            },
+
+            {
+                "recipe_id":3,
+                "recipe_name":"Pad Thai",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4siyvk9D9vwXIl_RLPdhzGardlB5-MpzJTw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            },
+
+            {
+                "recipe_id":4,
+                "recipe_name":"Beef Massaman Curry",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGINaS_eK5wBWBqpjJcCLPdG8KF3JbdV0uQ&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            }
+        ]
+    },
+
+   {   
+        "chef_id": 2,    
+        "chef_name": "Duangporn Songvisava",    
+        "chef_image": "2wCEAAoHCBYWFRgWFhYYGRgaGRocHBocHRwcHhwcGhoZHB4eGhwcIS4lHB4rIRoaJjgnKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHzQrJCs0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP",
+        "years_of_experience": 20,    
+        "num_of_recipes": 100,    
+        "likes":21000, 
+        "chefs_bio": "Known as Bo, Songvisava is the co-owner and head chef of the Michelin-starred Bo.lan restaurant in Bangkok. She has won several awards for her contributions to Thai cuisine and is a passionate advocate for sustainability and responsible sourcing.",
+        "chefs_recipes":[
+            {
+                "recipe_id":1,
+                "recipe_name":"Green Curry Chicken",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUDEdA4Y8OzW-7iXlH0b4ecuFR2afVn6q4w&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.8
+            },
+
+            {
+                "recipe_id":2,
+                "recipe_name":"Tom Yum Soup",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C1yCdZfXQ1BGT32R15LoFn4LNBAjD30gtw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.5
+            },
+
+            {
+                "recipe_id":3,
+                "recipe_name":"Pad Thai",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4siyvk9D9vwXIl_RLPdhzGardlB5-MpzJTw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            },
+
+            {
+                "recipe_id":4,
+                "recipe_name":"Beef Massaman Curry",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGINaS_eK5wBWBqpjJcCLPdG8KF3JbdV0uQ&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            }
+        ]
+    },  
+    
+    {    
+        "chef_id": 3,    
+        "chef_name": "Nooror Somany Steppe",    
+        "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs4uey0UJflO0dNLbXKfTu3xYTaAGClmpR4Q&usqp=CAU",
+        "years_of_experience": 30,    
+        "num_of_recipes": 200,    
+        "likes":18000,
+        "chefs_bio":"Born in Thailand and raised in Denmark, Steppe is the founder and head chef of the Blue Elephant chain of restaurants. She has over 30 years of experience in the culinary industry and has authored several cookbooks.",
+        "chefs_recipes":[
+            {
+                "recipe_id":1,
+                "recipe_name":"Green Curry Chicken",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUDEdA4Y8OzW-7iXlH0b4ecuFR2afVn6q4w&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.8
+            },
+
+            {
+                "recipe_id":2,
+                "recipe_name":"Tom Yum Soup",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C1yCdZfXQ1BGT32R15LoFn4LNBAjD30gtw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.5
+            },
+
+            {
+                "recipe_id":3,
+                "recipe_name":"Pad Thai",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4siyvk9D9vwXIl_RLPdhzGardlB5-MpzJTw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            },
+
+            {
+                "recipe_id":4,
+                "recipe_name":"Beef Massaman Curry",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGINaS_eK5wBWBqpjJcCLPdG8KF3JbdV0uQ&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            }
+        ]
+    },  
+    
+    {    
+        "chef_id": "4",    
+        "chef_name": "Chumpol Jangprai",    
+        "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpbzqAZp6Bn6us3EnD0mVQC7pI3bVfNHc8w&usqp=CAU",
+        "years_of_experience": 15,    
+        "num_of_recipes": 80,    
+        "likes":12000,
+        "chefs_bio":"Chumpol Jangprai is a celebrity chef in Thailand who has won multiple awards for his cooking. He is the owner and head chef of R-Haan, a restaurant in Bangkok that specializes in traditional Thai cuisine.",
+        "chefs_recipes":[
+            {
+                "recipe_id":1,
+                "recipe_name":"Green Curry Chicken",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUDEdA4Y8OzW-7iXlH0b4ecuFR2afVn6q4w&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.8
+            },
+
+            {
+                "recipe_id":2,
+                "recipe_name":"Tom Yum Soup",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C1yCdZfXQ1BGT32R15LoFn4LNBAjD30gtw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.5
+            },
+
+            {
+                "recipe_id":3,
+                "recipe_name":"Pad Thai",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4siyvk9D9vwXIl_RLPdhzGardlB5-MpzJTw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            },
+
+            {
+                "recipe_id":4,
+                "recipe_name":"Beef Massaman Curry",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGINaS_eK5wBWBqpjJcCLPdG8KF3JbdV0uQ&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            }
+        ]
+    },  
+    
+    {    
+        "chef_id": 5,    
+        "chef_name": "Sandy Daza",    
+        "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUK2H6RBDA5A2YfVAD7rAA-CNUI1DKwQDUnA&usqp=CAU",
+        "years_of_experience": 10,    
+        "num_of_recipes": 50,    
+        "likes":9000,
+        "chefs_bio":"Sandy Daza is a Filipino chef who is known for his love of Thai cuisine. He is the host of the TV show FoodPrints, which explores the food and culture of different countries around the world.",
+        "chefs_recipes":[
+            {
+                "recipe_id":1,
+                "recipe_name":"Green Curry Chicken",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUDEdA4Y8OzW-7iXlH0b4ecuFR2afVn6q4w&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.8
+            },
+
+            {
+                "recipe_id":2,
+                "recipe_name":"Tom Yum Soup",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C1yCdZfXQ1BGT32R15LoFn4LNBAjD30gtw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.5
+            },
+
+            {
+                "recipe_id":3,
+                "recipe_name":"Pad Thai",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4siyvk9D9vwXIl_RLPdhzGardlB5-MpzJTw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            },
+
+            {
+                "recipe_id":4,
+                "recipe_name":"Beef Massaman Curry",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGINaS_eK5wBWBqpjJcCLPdG8KF3JbdV0uQ&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            }
+        ]
+        
+    },  
+    
+    {    
+        "chef_id": 6,    
+        "chef_name": "Penny Jirayuwatana",    
+        "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmyrqq6o4e7JYJT7RUApFtH0nHm1DEuIEiw&usqp=CAU",
+        "years_of_experience": 18,    
+        "num_of_recipes": 120,    
+        "likes":13000,
+        "chefs_bio":"Penny Jirayuwatana is a Thai chef who has worked at several high-end restaurants in Thailand and abroad. She is the owner and head chef of the popular restaurant Namsaah Bottling Trust in Bangkok, which serves modern Thai cuisine.",
+        "chefs_recipes":[
+            {
+                "recipe_id":1,
+                "recipe_name":"Green Curry Chicken",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUDEdA4Y8OzW-7iXlH0b4ecuFR2afVn6q4w&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.8
+            },
+
+            {
+                "recipe_id":2,
+                "recipe_name":"Tom Yum Soup",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C1yCdZfXQ1BGT32R15LoFn4LNBAjD30gtw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast",
+                    "cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":4.5
+            },
+
+            {
+                "recipe_id":3,
+                "recipe_name":"Pad Thai",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4siyvk9D9vwXIl_RLPdhzGardlB5-MpzJTw&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            },
+
+            {
+                "recipe_id":4,
+                "recipe_name":"Beef Massaman Curry",
+                "recipe_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGINaS_eK5wBWBqpjJcCLPdG8KF3JbdV0uQ&usqp=CAU",
+                "recipe_ingredients":
+                [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+                    "1 can (13.5 oz) coconut milk",
+                    "2-3 tbsp green curry paste",
+                    "1 red bell pepper, sliced",
+                    "1 zucchini, sliced Salt to taste"
+                ],
+                "cooking_method":"1. Head oil in pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until gets brown. 4. Add spices and cook until fragrant.",
+                "rating":5.0
+            }
+        ]
+    }
+]
